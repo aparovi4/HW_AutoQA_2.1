@@ -1,3 +1,5 @@
+Thumbs.db*
+.DS_Store
 HELP.md
 .gradle
 build/
@@ -29,7 +31,6 @@ out/
 .vscode/
 
 ### Package Files ###
-*.jar
 *.war
 *.nar
 *.ear
